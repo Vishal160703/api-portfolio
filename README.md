@@ -25,6 +25,7 @@ This repository showcases my skills in writing, structuring, and presenting API 
 | Project | Description |
 |----------|--------------|
 | [ReqRes API Documentation](./api-documentation/reqres-api.md) | Example API documentation written for a public test API |
+| [How to Test an API using Postman](./how-to-guides/how-to-test-an-api-using-postman.md) | Step-by-step beginner guide for testing APIs |
 
 ---
 
