@@ -22,6 +22,9 @@ This repository showcases my skills in writing, structuring, and presenting API 
 | [How-To Guides](./how-to-guides) | Step-by-step tutorials for API tools |
 | [Samples](./samples) | JSON, curl, Postman examples |
 | [Assets](./assets) | Logos, screenshots, visuals |
+| Project | Description |
+|----------|--------------|
+| [ReqRes API Documentation](./api-documentation/reqres-api.md) | Example API documentation written for a public test API |
 
 ---
 
