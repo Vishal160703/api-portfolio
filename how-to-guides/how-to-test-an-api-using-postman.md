@@ -44,4 +44,3 @@ https://reqres.in/api/users?page=2
  }
 ]
 }
-✅ Congratulations! You’ve made your first successful API call.
